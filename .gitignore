@@ -1,0 +1,7 @@
+node_modules
+.env
+.env.*
+!.env.example
+
+# İç talimat — public sample-plugin repo'suna GİTMEZ (developer-portal kaynağında kalır)
+CLAUDE.md
